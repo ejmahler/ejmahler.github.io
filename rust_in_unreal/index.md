@@ -2,7 +2,7 @@
 
 I recently finished a proof of concept for getting Rust code integrated into Unreal Engine.
 
-I've written a full writeup [here](https://github.com/ejmahler/UnrealEngine/blob/rust-modules/RustPost/RustInUnreal.md). You'll need to be logged into GitHub with an account that has access to the Unreal Engine source code. If not, the link will look like a 404 -- but it's easy to [request access](https://github.com/EpicGames/Signup).
+I've written a full writeup [here](https://github.com/ejmahler/UnrealEngine/blob/rust-modules/RustPost/RustInUnreal.md), which includes a full demo project and all the necessary engine changes. You'll need to be logged into GitHub with an account that has access to the Unreal Engine source code. If not, the link will look like a 404 -- but it's easy to [request access](https://github.com/EpicGames/Signup).
 
 As a quick summary of features I've found to work:
 
